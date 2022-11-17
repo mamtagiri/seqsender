@@ -20,6 +20,9 @@ dependencies:
   
   - pip:
     - biopython==1.79
+    - Bio
+    - pandas
+ 
     
  
 
